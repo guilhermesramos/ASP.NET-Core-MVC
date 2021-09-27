@@ -20,6 +20,8 @@ namespace CRUD___SalesWebMVC.Controllers
 
         public IActionResult Index()
         {
+            ViewData["Message"] = "Sales Web APP with C#";
+            ViewData["Desenvolvedor"] = "Guilherme Ramos";
             return View();
         }
 
