@@ -1,4 +1,4 @@
-﻿using CRUD___SalesWebMVC.Models;
+﻿using CRUD___SalesWebMVC.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using System;
